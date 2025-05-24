@@ -8,6 +8,10 @@
 .localdevserver/
 deploy-options.json
 
+# Manifest package.xml - exclude from Git
+manifest/package.xml
+
+
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
 
